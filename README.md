@@ -4,7 +4,7 @@ I am Jason Melgoza, a product designer and front-end developer. I studied Art an
 
 - 📔 Personal Website: [jmelgoza.com](https://jmelgoza.com)
 - 🤘 Side-project: [Metal Icons](https://metalicons.com)
-- 🌱 I’m currently learning how to intergate AI into the [SecureDocs](https://securedocs.com) set of products.
+- 🌱 I am currently learning how to integrate AI into the [SecureDocs](https://securedocs.com) set of products.
 
 <!--
 **jasonmelgoza/jasonmelgoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
