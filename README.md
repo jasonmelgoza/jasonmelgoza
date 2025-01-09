@@ -4,4 +4,4 @@ I am Jason Melgoza, a product designer and front-end developer. I studied Art an
 
 - 📔 Personal Website: [jmelgoza.com](https://jmelgoza.com)
 - 🤘 Side-project: [Metal Icons](https://metalicons.com)
-- 🌱 I am currently learning how to integrate AI into the [SecureDocs](https://securedocs.com) set of products.
+- 🌱 I've started a new role at [Bill](https://bill.com) as a product designer on the design system team.
